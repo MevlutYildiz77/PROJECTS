@@ -1,0 +1,21 @@
+StudentFirstName;StudentLastName;Registere_date;StudentRegion;StudentCounselFirstName;StudentCounselLastName;CounselRegion;Course;CourseCredit;CourseTutorFirstName;CourseTutorLastName;TutorRegion
+Alec;Hunter;12.05.2020;Wales;October;Lime;Wales;Fine Arts;15;Neil;Mango;Scotland
+Alec;Hunter;12.05.2020;Wales;October;Lime;Wales;German;15;Harry;Smith;England
+Bronwin;Blueberry;12.05.2020;Scotland;Ross;Island;Scotland;Fine Arts;15;Neil;Mango;Scotland
+Bronwin;Blueberry;12.05.2020;Scotland;Ross;Island;Scotland;German;15;Harry;Smith;England
+Charlie;Apricot;12.05.2020;England;Harry;Smith;England;Fine Arts;15;Neil;Mango;Scotland
+Charlie;Apricot;12.05.2020;England;Harry;Smith;England;German;15;Harry;Smith;England
+Ursula;Douglas;12.05.2020;Scotland;Neil;Mango;Scotland;Fine Arts;15;Neil;Mango;Scotland
+Ursula;Douglas;12.05.2020;Scotland;Neil;Mango;Scotland;German;15;Harry;Smith;England
+Zorro;Apple;12.05.2020;England;Kellie;Pear;England;;;;;
+Debbie;Orange;12.05.2020;Wales;Victor;Fig;Wales;;;;;
+;;;;;;;Chemistry;30;Margeret;Nolan;England
+;;;;;;;French;30;Kellie;Pear;England
+;;;;;;;French;30;Margeret;Nolan;England
+;;;;;;;Physics;30;Harry;Smith;England
+;;;;;;;Physics;30;Kellie;Pear;England
+;;;;;;;History;30;;;
+;;;;;;;Music;30;;;
+;;;;;;;Psychology;30;;;
+;;;;;;;Biology;15;Yavette;Berry;Northern Ireland
+;;;;;;;;;Tom;Garden;Northern Ireland
